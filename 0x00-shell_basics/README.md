@@ -10,3 +10,4 @@ Delete betty from tmp/my_first_directory
 Delete my_first_directory
 change working directory to previous one
 long list including hidden files in parent directory, current directory and /boot
+File type
