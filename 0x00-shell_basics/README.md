@@ -5,3 +5,4 @@ Display current working directory in long format
 Display current directory files, including hidden files
 Display content of current directory in long format, user ID and groups and hidden files
 create my_first_directory inside tmp direectory
+Move betty from /tmp to /tmp/my_first_directory
