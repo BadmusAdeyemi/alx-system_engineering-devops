@@ -1,2 +1,3 @@
 Print current working directory
-List content of current directory
+list content of current working directory
+change working directory to user home
