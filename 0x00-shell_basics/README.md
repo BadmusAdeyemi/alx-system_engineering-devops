@@ -16,3 +16,4 @@ copy html files that doesnot exist in parent directory
 Move uppercase files to /tmp/u
 Delete files that end with ~ in current diresctory
 create directory welcome, welcome/to and welcome/to/school in current working direstory
+List files and directory in sorted order seperated by commas
