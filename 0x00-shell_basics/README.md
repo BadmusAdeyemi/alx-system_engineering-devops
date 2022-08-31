@@ -8,3 +8,4 @@ create my_first_directory inside tmp direectory
 Move betty from /tmp to /tmp/my_first_directory
 Delete betty from tmp/my_first_directory
 Delete my_first_directory
+change working directory to previous one
