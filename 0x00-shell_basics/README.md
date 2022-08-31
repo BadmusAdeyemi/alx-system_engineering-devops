@@ -14,3 +14,4 @@ File type
 create a symbolic path
 copy html files that doesnot exist in parent directory
 Move uppercase files to /tmp/u
+Delete files that end with ~ in current diresctory
