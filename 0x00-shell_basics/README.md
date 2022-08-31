@@ -12,3 +12,4 @@ change working directory to previous one
 long list including hidden files in parent directory, current directory and /boot
 File type
 create a symbolic path
+copy html files that doesnot exist in parent directory
