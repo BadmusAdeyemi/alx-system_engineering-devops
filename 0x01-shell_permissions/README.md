@@ -12,3 +12,7 @@ Mirror olleh permission on hello
 Adde execute permission to subdirectories of the current directories for user, group and other users
 Change user group owner of file hello to school
 Create directory mk_dir with permission 751
+Changeo owner and group
+change owner nad group of _hello
+change owner of hello to betty only if owned by guillaume
+Play starwars
