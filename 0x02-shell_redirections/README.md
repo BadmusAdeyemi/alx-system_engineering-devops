@@ -22,3 +22,4 @@ Remove all letters C and c
 Reverse input
 Display all users and their home directories sorted by users
 find empty files and directories
+List all .gif file extension
